@@ -1,0 +1,25 @@
+# just in case
+.jic
+
+# backup files
+*.bak
+*~
+
+# log files
+*.log
+
+# assembly files
+*.s
+
+# object files
+*.o
+
+# map files
+*.map
+
+# program database files
+*.pdb
+
+# executables
+a.out
+*.exe
