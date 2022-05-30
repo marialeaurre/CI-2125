@@ -10,7 +10,7 @@ int main()
 {
   int i = 1;
   while (i <= 10) {
-    fprintf(stdout, "%d\n", i);
+    fprintf(stdout, "Numero: %d\n", i);
     i = i + 1;
   }
   return 0;
