@@ -6,5 +6,5 @@
 
 int main()
 {
-  fprintf(stdout, "Hola, mundo\n");
+  fprintf(stdout, "Hello, world!\n");
 }
