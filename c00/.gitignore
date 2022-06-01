@@ -1,8 +1,8 @@
 # just in case
-/.jic
+.jic/
 
 # vs code files
-/.vscode
+.vscode/
 
 # backup files
 *.bak

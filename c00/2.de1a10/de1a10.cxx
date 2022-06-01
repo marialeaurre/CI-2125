@@ -1,7 +1,8 @@
 ///
 /// de1a10.cxx
 ///
-/// programa que cuenta 1 a 10
+/// Programa de ejemplo que cuenta 1 a 10
+/// Muestra el uso de la instrucción while para iterar
 ///
 
 #include <stdio.h>
@@ -13,7 +14,6 @@ int main()
     fprintf(stdout, "Numero: %d\n", i);
     i = i + 1;
   }
-  return 0;
 }
 
 // Ejercicio: definir una constante entera N para el numero 10

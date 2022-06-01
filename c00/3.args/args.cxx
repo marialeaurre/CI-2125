@@ -1,6 +1,8 @@
 ///
 /// args.cxx
 ///
+/// Este ejemplo muestra los argumentos argc y argv pasados a main al ejecutar el programa
+///
 
 #include <stdio.h>
 
@@ -12,5 +14,4 @@ int main(int argc, const char *argv[])
     fprintf(stdout, "argv[%d]: %s\n", i, argv[i]);
     i = i + 1;
   }
-  return 0;
 }

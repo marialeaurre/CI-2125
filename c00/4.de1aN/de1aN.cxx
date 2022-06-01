@@ -10,7 +10,7 @@
 
 int main(int argc, const char *argv[])
 {
-  // obtener y chequear el valor del argumento
+  // obtener el valor de N a partir del argumento
   int N = argv[1];
 
   // contar de 1 a N
