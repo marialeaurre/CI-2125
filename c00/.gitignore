@@ -1,28 +1,50 @@
-# just in case
+# Just in case
 .jic/
 
-# vs code files
-.vscode/
-
-# backup files
+# Backup files
 *.bak
 *~
 
-# log files
+# Log files
 *.log
 
-# assembly files
-*.s
+# Prerequisites
+*.d
 
-# object files
-*.o
+# VS Code files
+.vscode/
 
-# map files
-*.map
-
-# program database files
+# VS Program Database files
 *.pdb
 
-# executables
-a.out
+# Generated Map files (debugging)
+*.map
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Assembly files
+*.s
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
 *.exe
+*.out
+*.app
